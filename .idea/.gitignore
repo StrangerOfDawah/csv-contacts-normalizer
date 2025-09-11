@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+
+# PyCharm / IntelliJ IDEA
+.idea/
+*.iml
+
+# System files
+.DS_Store
+
+# Output files
+tests/normalized_contacts.csv
